@@ -104,7 +104,7 @@ the pitch.
 {% if site.pilot %}
 This is a hands-on introduction to the first steps in deep learning, intended for students and researchers who are familiar with...
 * machine learning, including data cleaning, train & test splits, type of problems (regression, classification), overfitting & underfitting, metrics (accuracy, recall, etc.)
-* python programming, including the Pandas package
+* Python programming, including the Pandas package, how to create functions, how to write loops, and experience with conditional logic
 
 **Please take the <a href="https://forms.gle/Hbdfn845z9usGNcr8">pre-workshop survey</a> to verify you meet the prerequisites and to give the instructors a better understanding of learners' backgrounds.**
 
