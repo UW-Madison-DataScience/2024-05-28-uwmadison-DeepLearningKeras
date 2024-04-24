@@ -382,7 +382,7 @@ of code below the Schedule `<h2>` header below with
 {% elsif site.carpentry == "lc" %}
 {% include lc/schedule.html %}
 {% elsif site.carpentry == "incubator" %}
-Please check the <a href="{{ site.incubator_lesson_site }}">lesson cirriculum</a> for a list of lesson sections and estimated timings.
+Please check the <a href="{{ site.incubator_lesson_site }}">lesson site</a> for a list of lesson sections and estimated timings.
 
 {% endif %}
 
