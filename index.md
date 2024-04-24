@@ -102,9 +102,15 @@ the pitch.
 {% endif %}
 
 {% if site.pilot %}
-This is a hands-on introduction to the first steps in deep learning, intended for students and researchers who are familiar with...
+**This is a hands-on introduction to the first steps in deep learning, intended for students and researchers who are familiar with...**
 * machine learning, including data cleaning, train & test splits, type of problems (regression, classification), overfitting & underfitting, metrics (accuracy, recall, etc.)
 * python programming, including the Pandas package
+
+Please take the <a href="https://forms.gle/Hbdfn845z9usGNcr8">pre-workshop survey</a> to verify you meet the prerequisites and to give the instructors a better understanding of learners' backgrounds.
+
+The use of deep learning has seen a sharp increase of popularity and applicability over the last decade. While deep learning can be a useful tool for researchers from a wide range of domains, taking the first steps in the world of deep learning can be somewhat intimidating. This introduction aims to cover the basics of deep learning in a practical and hands-on manner, so that upon completion, you will be able to train your first neural network and understand what next steps to take to improve the model.
+
+We start with explaining the basic concepts of neural networks, and then go through the different steps of a deep learning workflow. Learners will learn how to prepare data for deep learning, how to implement a basic deep learning model in Python with Keras, how to monitor and troubleshoot the training process and how to implement different layer types such as convolutional layers.
   
 {% endif %}
 
