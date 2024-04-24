@@ -114,7 +114,9 @@ Sign up to receive future editions and read our full archive: <a href="https://c
 {% endif %}
 
 {% if site.pilot %}
-This is a pilot workshop, testing out a lesson that is still under development. The lesson authors would appreciate any feedback you can give them about the lesson content and suggestions for how it could be further improved.
+This is a hands-on introduction to the first steps in deep learning, intended for students and researchers who are familiar with… 
+* machine learning, including data cleaning, train & test splits, type of problems (regression, classification), overfitting & underfitting, metrics (accuracy, recall, etc.)
+* python programming, including the Pandas package
 {% endif %}
 
 {% comment %}
